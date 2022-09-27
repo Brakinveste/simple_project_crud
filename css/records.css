@@ -4,6 +4,14 @@
     text-align: left;
 }
 
+.records_title{
+    color: aliceblue;
+}
+
+.txt_body{
+    color: aliceblue;
+}
+
 .records th{
     height: 50px;
     background-color: var(--primary-color);
